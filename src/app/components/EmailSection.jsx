@@ -4,7 +4,7 @@ import GithubIcon from "../../../public/github-icon.svg";
 import LinkedinIcon from "../../../public/linkedin-icon.svg";
 import Link from "next/link";
 import Image from "next/image";
-import { SiLeetcode } from "react-icons/si";
+
 const EmailSection = () => {
   return (
     <section
