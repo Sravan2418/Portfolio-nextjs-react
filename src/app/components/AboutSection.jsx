@@ -27,7 +27,7 @@ const AboutSection = () => {
             I am a Data Engineering and Analytics Expert with a passion for transforming complex data into actionable insights. With a strong foundation in Data Warehousing, Machine Learning, and Generative AI, I specialize in designing scalable data solutions that empower businesses to make smarter decisions and optimize operations.
           </p>
           <p className="text-base leading-relaxed lg:text-lg lg:leading-relaxed w-full">
-            I have extensive experience in building and optimizing ETL pipelines, conducting A/B testing, and delivering high-impact reporting and analysis. My technical toolkit includes Python, SQL, Spark, and NoSQL databases such as MongoDB, Cassandra, Redis, Elasticsearch, and Kafka. I'm also proficient in SSIS integrations and cloud migrations, ensuring smooth data flow and transition across environments.
+            I have extensive experience in building and optimizing ETL pipelines, conducting A/B testing, and delivering high-impact reporting and analysis. My technical toolkit includes Python, SQL, Spark, and NoSQL databases such as MongoDB, Cassandra, Redis, Elasticsearch, and Kafka. I&apos;m also proficient in SSIS integrations and cloud migrations, ensuring smooth data flow and transition across environments.
           </p>
           <p className="text-base leading-relaxed lg:text-lg lg:leading-relaxed w-full">
             I leverage cloud platforms such as AWS, Azure, and GCP to create efficient, real-time data architectures.
