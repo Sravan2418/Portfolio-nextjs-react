@@ -78,7 +78,7 @@ const projectsData = [
     title: "Student Enrollment Data Pipeline and Analytics Solution",
     description: "Project 7 description",
     image: "/images/projects/7.webp",
-    tag: ["All", "Data Engineer","Analytics"],
+    tag: ["All", "Data Engineering","Analytics"],
     gitUrl:
       "https://github.com/Sravan2418/Student-Enrollment-Data-Pipeline-and-Analytics-Solution-/blob/main/Exam.ipynb",
     previewUrl: "https://github.com/Sravan2418/Student-Enrollment-Data-Pipeline-and-Analytics-Solution-/tree/main",
