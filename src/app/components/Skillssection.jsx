@@ -4,7 +4,7 @@ import { SiPython, SiR, SiMysql, SiPostgresql, SiMongodb, SiKibana,SiFlask,SiGoo
 import { FaCloud, FaDatabase, FaCode, FaAws } from "react-icons/fa";
 import { FaGolang } from "react-icons/fa6";
 import { IoIosCloudDownload } from "react-icons/io";
-
+import { HiMiniFire } from "react-icons/hi2";
 // Define sections with icons and skill names
 const skillsData = [
   {
@@ -56,7 +56,8 @@ const skillsData = [
       { name: "Hadoop", icon: <SiApachehadoop /> },
       { name: "Kafka", icon: <SiApachekafka /> },
       { name: "GraphQL", icon: <SiGraphql /> },
-      { name: "Airflow", icon: <SiApacheairflow /> }
+      { name: "Airflow", icon: <SiApacheairflow /> },
+      { name: "Apache Nifi", icon: <HiMiniFire /> }
     ]
   },
   {
