@@ -43,8 +43,7 @@ const techIcons = {
   "Apache Cassandra": <SiApachecassandra />,
   Elasticsearch: <SiElasticsearch />,
   Neo4j:<SiNeo4J />,
-  Kibana:<SiKibana />
-  SQL: <TbSql />,
+  Kibana:<SiKibana />,
 };
 
 const ProjectCard = ({ imgUrl, title, gitUrl, previewUrl, techStack }) => {
