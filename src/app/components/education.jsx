@@ -27,7 +27,7 @@ const Education = () => {
             </p>
             <p className="text-md text-gray-400">
               Relevant Coursework: Advanced Big Data Management | Data Warehouse | Big Data Analytics 
-              | Natural Language Processing | Applied Machine Learning | Text Mining
+              | Natural Language Processing | Applied Machine Learning | Text Mining | Scripting For Data Analytics | business analytics
             </p>
           </div>
         </div>
@@ -50,7 +50,7 @@ const Education = () => {
               Duration: July 2015 – May 2019
             </p>
             <p className="text-md text-gray-400">
-              Relevant Coursework: Machine Learning | Python Programming | Computer Networks | Databases | Lean Six Signma 
+              Relevant Coursework: Machine Learning | Python Programming | Computer Networks | Databases | Lean Six Sigma 
             </p>
           </div>
         </div>

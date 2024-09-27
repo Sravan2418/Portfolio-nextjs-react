@@ -12,15 +12,20 @@ const experiences = [
       "Integrated Azure Synapse, Data Factory, and Databricks to improve ETL processes, increasing data integrity and supporting in-depth analysis of Customer Satisfaction and Risk Management metrics.",
       "Leveraged Azure Databricks, Spark, and Kubernetes for data transformations and microservices deployment, enhancing reporting precision by 30% and improving data processing performance.",
       "Optimized CI/CD pipelines on Azure with DevOps and GitHub Actions, achieving 40% faster deployments and enhancing project execution success rates.",
-      "Automated reporting with Shell scripting and Python, saving 4 hours daily, and developed SQL and Python-driven Power BI dashboards to deliver real-time insights for strategic decision-making.",
       "Developed and optimized ETL pipelines using Azure Synapse Analytics and Azure Data Factory, enhancing data processing efficiency by 30% through consolidation of diverse payment sources.",
       "Created and maintained complex Power BI reports using DAX for advanced calculations, providing real-time insights to stakeholders and vendors, boosting strategic decision-making in payment processing by 40%.",
       "Conducted comprehensive data research and analysis, managing large payment datasets with SQL to extract actionable insights, improving decision-making processes by 25%.",
       "Implemented data modeling standards and best practices in Azure SQL Database and data warehousing, ensuring consistency and accuracy across platforms, leading to a 25% improvement in data reliability.",
       "Wrote and optimized SQL queries to manage data flows, reduce report generation times by 35%, and enhance data governance, accuracy, and usability.",
-      "Collaborated with IT managers and utilized workflow management tools to develop tailored data environments, reduce error resolution time by 35%, and support cross-functional teams in payment operations.",
+      "Collaborated with IT managers and ut1ilized workflow management tools to develop tailored data environments, reduce error resolution time by 35%, and support cross-functional teams in payment operations.",
+      "Achieved a 15% reduction in customer churn by developing and deploying machine learning models using PyTorch, TensorFlow, and scikit-learn, enhancing risk management strategies and customer retention for AT&T.",
+      "Streamlined operational efficiency by 20% through the development and optimization of ETL pipelines using Azure Data Factory and Azure Synapse Analytics, automating workflows and data integration for AT&T.",
+      "Designed and implemented a server-identification chatbot using Python and Unix, automating the retrieval of transaction details from multiple servers based on transaction IDs, saving 4 hours per day and improving operational efficiency for AT&T.",
+      "Integrated machine learning models with ETL pipelines on Azure Machine Learning and Azure SQL, increasing model prediction accuracy by 15%, supporting AT&T’s strategic retention initiatives.",
+      "Deployed scalable CI/CD pipelines using MLFlow, Azure DevOps, and Kubernetes, optimizing model deployment, monitoring, and scalability for production models.",
+
     ],
-    techStack: "Azure Synapse Analytics, Azure Data Factory, Databricks, Power BI, DAX, SQL, Azure SQL Database, Spark, Kubernetes, Azure DevOps, GitHub Actions, Shell Scripting, Python, Workflow Management Tools",
+    techStack: "Python, PyTorch, TensorFlow, scikit-learn, Azure Data Factory, Azure Synapse Analytics, Azure Machine Learning, Azure SQL, MLFlow, Azure DevOps, Kubernetes, Unix, ETL Pipelines, CI/CD, Feature Engineering, Azure Data Factory, Databricks, Power BI, DAX, SQL, Kubernetes, GitHub Actions,  Workflow Management Tools",
   },
   {
     title: "Research Assistant",
@@ -89,3 +94,7 @@ const WorkExperience = () => {
 };
 
 export default WorkExperience;
+
+
+
+

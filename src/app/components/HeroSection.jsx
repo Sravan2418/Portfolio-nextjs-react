@@ -27,6 +27,8 @@ const HeroSection = () => {
                 sequence={[
                   "Sravan Kumar",
                   1000, 
+                  "Machine Learning Engineer",
+                  1000,
                   "Data Scientist",
                   1000,
                   "Data Engineer",
@@ -41,7 +43,7 @@ const HeroSection = () => {
             </span>
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Crafting data-driven solutions for smarter insights and scalable architecture.
+          Crafting data-driven solutions for smarter insights, scalable architecture, and transformative AI-powered analytics, with a focus on Machine Learning, Generative AI, and advanced Data Engineering.
           </p>
           <div>
             {/* Hire Me Button */}
