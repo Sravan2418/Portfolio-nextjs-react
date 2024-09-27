@@ -14,8 +14,14 @@ import {
   SiMongodb,
   SiApachespark,
   SiNumpy,
+  SiApachecassandra,
+  SiElasticsearch,
+  SiNeo4J,
+  SiKibana,
 } from "react-icons/si";
 import { FaFileExcel } from "react-icons/fa";
+import { DiSpark } from "react-icons/di";
+import { TbSql } from "react-icons/tb";
 
 // Tech stack icons mapping
 const techIcons = {
@@ -33,6 +39,12 @@ const techIcons = {
   Spark: <SiApachespark />,
   NumPy: <SiNumpy />,
   Excel: <FaFileExcel />,
+  PySpark: <DiSpark />,
+  "Apache Cassandra": <SiApachecassandra />,
+  Elasticsearch: <SiElasticsearch />,
+  Neo4j:<SiNeo4J />,
+  Kibana:<SiKibana />
+  SQL: <TbSql />,
 };
 
 const ProjectCard = ({ imgUrl, title, gitUrl, previewUrl, techStack }) => {

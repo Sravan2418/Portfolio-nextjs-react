@@ -65,13 +65,24 @@ const projectsData = [
   {
     id: 6,
     title: "NLP-Powered Chatbot for Breast Cancer Education from Reddit Data",
-    description: "Project 5 description",
+    description: "Project 6 description",
     image: "/images/projects/6.webp",
     tag: ["All", "Machine Learning"],
     gitUrl:
       "https://github.com/Sravan2418/A-Chatbot-for-Breast-Cancer-Insights",
     previewUrl: "https://github.com/Sravan2418/A-Chatbot-for-Breast-Cancer-Insights",
     techStack: ["Python", "NumPy", "Seaborn", "NLP", "ML"]
+  },
+  {
+    id: 7,
+    title: "Student Enrollment Data Pipeline and Analytics Solution",
+    description: "Project 7 description",
+    image: "/images/projects/7.webp",
+    tag: ["All", "Data Engineer","Analytics"],
+    gitUrl:
+      "https://github.com/Sravan2418/Student-Enrollment-Data-Pipeline-and-Analytics-Solution-/blob/main/Exam.ipynb",
+    previewUrl: "https://github.com/Sravan2418/Student-Enrollment-Data-Pipeline-and-Analytics-Solution-/tree/main",
+    techStack: ["PySpark", "Apache Cassandra", "Elasticsearch", "Neo4j", "Kibana" , "SQL"]
   },
 ];
 
