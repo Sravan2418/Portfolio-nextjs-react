@@ -26,8 +26,8 @@ const Education = () => {
               Duration: Aug 2022 – May 2024
             </p>
             <p className="text-md text-gray-400">
-              Relevant Coursework: Advanced Big Data Management | Data Warehouse | Big Data Analytics 
-              | Natural Language Processing | Applied Machine Learning | Text Mining | Scripting For Data Analytics | business analytics
+              Relevant Coursework: Advanced Big Data Management | Data Warehouse | Big Data Analytics | Natural Language Processing 
+              | Applied Machine Learning | Text Mining | Scripting For Data Analytics | Business Analytics | Introduction to Data Science
             </p>
           </div>
         </div>

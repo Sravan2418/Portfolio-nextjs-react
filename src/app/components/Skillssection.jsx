@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { SiPython, SiR, SiMysql, SiPostgresql, SiMongodb, SiKibana,SiFlask,SiGooglecloud,SiRedis, SiMicrosoftazure,SiTableau, SiApachehadoop,SiApacheairflow,SiPowerbi, SiNeo4J, SiGraphql, SiKubernetes,SiVisualstudiocode,SiElasticsearch, SiJira, SiOracle,SiCplusplus, SiCsharp, SiApachecassandra,SiApachekafka,SiHtml5, SiCss3 } from "react-icons/si";
+import { SiPython, SiR, SiMysql, SiPostgresql, SiMongodb, SiKibana,SiFlask,SiGooglecloud,SiRedis, SiApachehive,SiApachehbase,SiMicrosoftazure,SiTableau, SiApachehadoop,SiApacheairflow,SiPowerbi, SiNeo4J, SiGraphql, SiKubernetes,SiVisualstudiocode,SiElasticsearch, SiJira, SiOracle,SiCplusplus, SiCsharp, SiApachecassandra,SiApachekafka,SiHtml5, SiCss3 } from "react-icons/si";
 import { FaCloud, FaDatabase, FaCode, FaAws } from "react-icons/fa";
 import { FaGolang } from "react-icons/fa6";
 import { IoIosCloudDownload } from "react-icons/io";
@@ -57,7 +57,9 @@ const skillsData = [
       { name: "Kafka", icon: <SiApachekafka /> },
       { name: "GraphQL", icon: <SiGraphql /> },
       { name: "Airflow", icon: <SiApacheairflow /> },
-      { name: "Apache Nifi", icon: <HiMiniFire /> }
+      { name: "Apache Nifi", icon: <HiMiniFire /> },
+      { name: "Apache HBase", icon: <SiApachehbase /> },
+      { name: "Apache Hive", icon: <SiApachehive /> }
     ]
   },
   {
