@@ -56,7 +56,7 @@ const HeroSection = () => {
 
             {/* Download CV Button */}
             <Link
-              href="https://drive.google.com/file/d/1gbo7bLiATzUAO4ADCC9pgrI8I_SAVVKI/view?usp=sharing" // Google Drive direct download link
+              href="https://drive.google.com/file/d/1slRsb3ue2Skn79Wdr4oLiGihUdUE3yCL/view?usp=sharing" // Google Drive direct download link
               target="_blank" // Opens in a new tab
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full mt-3"
             >
